@@ -1,5 +1,5 @@
  
- <img src='https://i.pcmag.com/imagery/roundups/07tAycb2jrO6jKSb5RsGUFq-1..v1569492641.jpg'></img><h1>Hi there 👋</h1>
+ <img src='https://i.pcmag.com/imagery/roundups/07tAycb2jrO6jKSb5RsGUFq-1..v1569492641.jpg' align='center'></img><h1>Hi there 👋</h1>
 
 <h3>I'm Paula Quiriti</h3> I'm an Argentina 🇦🇷 based dev, fresh off a Coding Bootcamp. Besides being a coder I'm also a chemistry teacher 🧪 and really passionate about education as a tool to reach equality. I truly belive in people's potential and I love seeing ideas come to life,that is concidently what I find so fascinating about programming,the sky seems to be the limit. 
 
