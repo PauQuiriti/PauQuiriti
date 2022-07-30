@@ -4,7 +4,7 @@ I'm Paula Quiriti, an Argentina 🇦🇷 based dev, fresh off a Coding Bootcamp.
 
 ✏️ Currently I'm searching for my first IT job. If you have some tips, some advice or are a recruiter that stumbled on this page and liked what you saw please dont doubt it and contact me. I'm always eager to learn and would love to chat with people that have experience in the industry.
 
-💬 I'm  Pau Quiriti#2193 on discord or if you'd prefer it you can email me at pauquiriti@gmail.com
+💬 I'm  <b>Pau Quiriti#2193</b> on discord or if you'd prefer it you can email me at pauquiriti@gmail.com
 
 ⚡ Fun facts:
 *I'm a voracius reader and collect quotes. 
