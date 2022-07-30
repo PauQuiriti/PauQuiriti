@@ -8,10 +8,10 @@
 
 💬 I'm  <b>Pau Quiriti#2193</b> on discord or if you'd prefer it you can email me at pauquiriti@gmail.com
 
-⚡ Fun facts:
+⚡ Fun facts: </br>
 *I'm a voracius reader and collect quotes. 
-*I write short stories in my spare time. 
-*I like historical facts and I'm a science enthusiast in all it's forms.
+</br>*I write short stories in my spare time. 
+</br>*I like historical facts and I'm a science enthusiast in all it's forms.
 
 Thank's for stopping by, have a great day!
 
