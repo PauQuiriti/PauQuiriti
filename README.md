@@ -4,7 +4,7 @@
 <h3>I'm Paula Quiriti</h3> I'm an Argentina 🇦🇷 based dev.  Besides being a coder I'm also a chemistry teacher 🧪 and really passionate about education as a tool to reach equality. I truly belive in people's potential and I love seeing ideas come to life,that is concidently what I find so fascinating about programming,the sky seems to be the limit. 
 
 
-✏️ Currently I'm working as a front end developer at Mercado Libre, Argentina. <img src='https://pbs.twimg.com/media/FkTshDTWYAEErgJ.jpg' width='40px'></img>
+ <img src='https://pbs.twimg.com/media/FkTshDTWYAEErgJ.jpg' width='40px'></img> Currently I'm working as a front end developer at Mercado Libre, Argentina.
 
 
 💻 I have worked with : React, Redux, Node.js, HTML, CSS, Sass, JavaScript, PosgreSQL, Express. 
