@@ -1,15 +1,13 @@
  
  <img src='https://i.pcmag.com/imagery/roundups/07tAycb2jrO6jKSb5RsGUFq-1..v1569492641.jpg' align='center'></img><h1>Hi there 👋</h1>
 
-<h3>I'm Paula Quiriti</h3> I'm an Argentina 🇦🇷 based dev, fresh off a Coding Bootcamp. Besides being a coder I'm also a chemistry teacher 🧪 and really passionate about education as a tool to reach equality. I truly belive in people's potential and I love seeing ideas come to life,that is concidently what I find so fascinating about programming,the sky seems to be the limit. 
+<h3>I'm Paula Quiriti</h3> I'm an Argentina 🇦🇷 based dev.  Besides being a coder I'm also a chemistry teacher 🧪 and really passionate about education as a tool to reach equality. I truly belive in people's potential and I love seeing ideas come to life,that is concidently what I find so fascinating about programming,the sky seems to be the limit. 
 
 
-✏️ Currently I'm searching for my first IT job. If you have some tips, some advice or are a recruiter that stumbled on this page and liked what you saw please dont doubt it and contact me. I'm always eager to learn and would love to chat with people that have experience in the industry.
+✏️ Currently I'm working as a front end developer at Mercado Libre, Argentina. <img src='https://pbs.twimg.com/media/FkTshDTWYAEErgJ.jpg' width='40px'></img>
 
 
-💻 I have worked with : React, Redux, Node.js, HTML, CSS, JavaScript, PosgreSQL, Express. 
-
-🚧 I'm learning MongoDB and would like to have a go at Go  😉 next! 
+💻 I have worked with : React, Redux, Node.js, HTML, CSS, Sass, JavaScript, PosgreSQL, Express. 
 
 💬 I'm  <b>Pau Quiriti#2193</b> on discord or if you'd prefer it you can email me at pauquiriti@gmail.com
 
